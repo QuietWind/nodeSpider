@@ -1,0 +1,357 @@
+
+-zsh
+jsonrpc: 2.0
+result: 
+  - 
+    deliveryMethodCode:       MRT
+    deliveryMethodName:       MRT Station
+    desc:                     Less than 8 KG
+    minFee:                   0
+    minWeight:                0
+    maxFee:                   0
+    maxWeight:                8
+    nightMaxWeight:           0
+    hasSubMethods:            false
+    stations: 
+      - 
+        id:             10673
+        stationName:    Ang Mo Kio
+        stationAddress: Ang Mo Kio MRT station Exit C (Big Mac Centre Behind McDonald's)
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.847
+        latitude:       1.36959
+        imageUrl:       MRT_DefaultImage.png
+        desc:           8:30 PM - 9:00 PM(Mon - Fri);5:30 PM - 6:00 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10674
+        stationName:    Bishan
+        stationAddress: Bishan MRT station Outside Exit D
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.85
+        latitude:       1.35097
+        imageUrl:       MRT_Bishan.png
+        desc:           12:30 PM - 1:00 PM(Mon - Fri);7:30 PM - 8:00 PM(Mon - Fri);12:20 PM - 12:50 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10675
+        stationName:    Boon Lay
+        stationAddress: Boon Lay MRT station Outside Exit A
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.705
+        latitude:       1.33819
+        imageUrl:       MRT_BoonLay.png
+        desc:           11:30 AM - 12:00 PM(Mon - Fri);7:40 PM - 8:20 PM(Mon - Fri);12:50 PM - 1:20 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10676
+        stationName:    Bugis
+        stationAddress: Bugis MRT station Outside Exit A
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.856
+        latitude:       1.30169
+        imageUrl:       MRT_Bugis.png
+        desc:           11:30 AM - 12:00 PM(Mon - Fri);6:30 PM- 7:00 PM(Mon - Fri);11:20 AM - 11:50 AM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10677
+        stationName:    Buona Vista
+        stationAddress: Buona Vista MRT station Exit C, Taxi Stand
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.79
+        latitude:       1.30654
+        imageUrl:       MRT_BuonaVista.png
+        desc:           7:30 PM- 8:00 PM(Mon - Fri);10:30 AM - 10:50 AM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10678
+        stationName:    Choa Chu Kang
+        stationAddress: Choa Chu Kang MRT station Exit D, Turn Left
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.744
+        latitude:       1.38452
+        imageUrl:       MRT_ChoaChuKang.png
+        desc:           1:30 PM- 1:50 PM(Mon - Fri);7:40 PM - 8:20 PM(Mon - Fri);3:30 PM - 4:00 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10679
+        stationName:    Clementi
+        stationAddress: Clementi MRT station Exit B Car Park
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.765
+        latitude:       1.31577
+        imageUrl:       MRT_DefaultImage.png
+        desc:           1:15 PM - 1:45 PM(Mon - Fri);8:30 PM - 9:00 PM(Mon - Fri);11:10 AM - 11:40 AM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10680
+        stationName:    Eunos
+        stationAddress: Eunos MRT station Exit A Turn right
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.903
+        latitude:       1.3194
+        imageUrl:       MRT_Eunos.png
+        desc:           8:40 PM - 9:00 PM(Mon - Fri);2:55 PM - 3:15 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10681
+        stationName:    Jurong East
+        stationAddress: Jurong East MRT station Outside Exit B
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.743
+        latitude:       1.33266
+        imageUrl:       MRT_JurongEast.png
+        desc:           12:30 PM - 1:00 PM(Mon - Fri);6:30 PM- 7:10 PM(Mon - Fri);12:00 PM - 12:30 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10682
+        stationName:    Outram Park
+        stationAddress: Outram Park MRT station Exit B Turn Left
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.839
+        latitude:       1.2813
+        imageUrl:       MRT_OutramPark.png
+        desc:           6:30 PM- 7:00 PM(Mon - Fri);10:30 AM - 10:50 AM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10683
+        stationName:    Paya Lebar
+        stationAddress: Paya Lebar MRT station Outside Exit C
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.891
+        latitude:       1.31823
+        imageUrl:       MRT_PayaLebar.png
+        desc:           11:30 AM - 12:00 PM(Mon - Fri);6:30 PM- 7:00 PM(Mon - Fri);2:10 PM - 2:40 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10684
+        stationName:    Pioneer
+        stationAddress: Pioneer MRT station Outside Exit B (Blk 649A)
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.697
+        latitude:       1.33793
+        imageUrl:       MRT_DefaultImage.png
+        desc:           8:40 PM - 9:00 PM(Mon - Fri);1:40 PM - 2:10 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10685
+        stationName:    Punggol
+        stationAddress: Punggol MRT station Exit C Turn Left
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.902
+        latitude:       1.40506
+        imageUrl:       MRT_Punggol.png
+        desc:           1:30 PM - 2:00 PM(Mon - Fri);8:30 PM - 9:00 PM(Mon - Fri);5:30 PM - 6:00 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10686
+        stationName:    Seng Kang
+        stationAddress: Seng Kang MRT station Exit C, Taxi Stand
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.895
+        latitude:       1.39068
+        imageUrl:       MRT_SengKang.png
+        desc:           11:30 AM - 11:50 PM(Mon - Fri);7:30 PM - 8:00 PM(Mon - Fri);4:45 PM - 5:15 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10687
+        stationName:    Serangoon
+        stationAddress: Serangoon MRT station Outside Exit C
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.874
+        latitude:       1.3508
+        imageUrl:       MRT_Serangoon.png
+        desc:           1:30 PM - 2:00 PM(Mon - Fri);6:30 PM- 7:00 PM(Mon - Fri);1:10 PM - 1:40 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10688
+        stationName:    Tampines
+        stationAddress: Tampines MRT station Exit B, IKEA PickUp Point
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.946
+        latitude:       1.35303
+        imageUrl:       MRT_Tampines.png
+        desc:           12:30 PM - 1:00 PM(Mon - Fri);7:30 PM - 8:10 PM(Mon - Fri);3:45 PM - 4:15 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10689
+        stationName:    Woodlands
+        stationAddress: Woodlands MRT station Exit C, Taxi Stand
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.787
+        latitude:       1.43711
+        imageUrl:       MRT_Woodlands.png
+        desc:           12:30 PM - 1:00 PM(Mon - Fri);6:30 PM- 7:10 PM(Mon - Fri);4:30 PM - 5:00 PM(Sat - Sun)
+        shortDesc:      
+      - 
+        id:             10690
+        stationName:    Yew Tee
+        stationAddress: Yew Tee MRT station Exit C (Overhead Bridge Blk 637)
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.748
+        latitude:       1.39727
+        imageUrl:       MRT_DefaultImage.png
+        desc:           8:40 PM - 9:00PM(Mon - Fri);2:40 PM - 3:10 PM(Sat - Sun)
+        shortDesc:      
+    deliveryMethodExtensions: 
+      (empty array)
+  - 
+    deliveryMethodCode:       Neighbourhood
+    deliveryMethodName:       Neighbourhood Station
+    desc:                     Less than 25 KG
+    minFee:                   0
+    minWeight:                0
+    maxFee:                   0
+    maxWeight:                25
+    nightMaxWeight:           0
+    hasSubMethods:            true
+    stations: 
+      (empty array)
+    deliveryMethodExtensions: 
+      (empty array)
+  - 
+    deliveryMethodCode:       SelfCollection
+    deliveryMethodName:       Self Collection
+    desc:                     Less than 10 or 50 KG
+    minFee:                   0
+    minWeight:                0
+    maxFee:                   0
+    maxWeight:                50
+    nightMaxWeight:           0
+    hasSubMethods:            false
+    stations: 
+      - 
+        id:             10018
+        stationName:    Dhoby Ghaut Warehouse
+        stationAddress: 11 Orchard Road ,Dhoby Ghaut MRT Dhoby Xchange #B1-48,Singapore 238826
+        telephone:      
+        maxWeight:      8
+        aheadOfDay:     0
+        longitude:      103.846
+        latitude:       1.29888
+        imageUrl:       Warehouse_Dhoby-Ghaut.png
+        desc:           Monday to Saturday: 11:00AM - 5:00PM, 5:30PM - 9:00PM
+        shortDesc:      
+      - 
+        id:             10019
+        stationName:    Jurong Warehouse
+        stationAddress: 18 Boon Lay Way, #03-137, 18@TradeHub21, Singapore 609966
+        telephone:      
+        maxWeight:      25
+        aheadOfDay:     0
+        longitude:      103.754
+        latitude:       1.3282
+        imageUrl:       Warehouse_Jurong-East.png
+        desc:           Monday to Friday: 11:00 AM - 2:00 PM, 3:00 PM - 5:30 PM, 5:30 PM-8:00 PM;Saturday to Sunday: 3:00PM - 8:00PM;
+        shortDesc:      
+      - 
+        id:             10020
+        stationName:    Raffles Place Warehouse
+        stationAddress: Raffles Place MRT Xchange #B1-52, 5 Raffles Place ,Singapore S048618 (MRT exit to Republic Plaza, Beside 7-11 Shop)
+        telephone:      
+        maxWeight:      10
+        aheadOfDay:     0
+        longitude:      103.851
+        latitude:       1.28392
+        imageUrl:       Warehouse_ 
+        desc:           Monday to Friday: 11:00AM - 5:00PM, 5:30PM - 9:00PM;<br/>Saturday: 11:00AM - 2:00PM, 3:00PM - 5:00PM, 5:30PM - 9:00PM
+        shortDesc:      
+      - 
+        id:             10021
+        stationName:    Sengkang Warehouse
+        stationAddress: Blk303 Anchorvale Link #01-03, Singapore 540303
+        telephone:      
+        maxWeight:      10
+        aheadOfDay:     0
+        longitude:      103.891
+        latitude:       1.3876
+        imageUrl:       Warehouse_SengKang.png
+        desc:           Monday to Friday: 11:00AM - 2:00PM; 3:00PM - 5:00PM; 6:00PM - 9:00PM;Saturday to Sunday: 3:00PM - 8:00PM;
+        shortDesc:      
+      - 
+        id:             10022
+        stationName:    Tai Seng Service Centre
+        stationAddress: 136 Joo Seng Road, #06-02. Singapore 368360.
+        telephone:      
+        maxWeight:      50
+        aheadOfDay:     0
+        longitude:      103.884
+        latitude:       1.33772
+        imageUrl:       Warehouse_Tai-Seng-Office.png
+        desc:           Monday to Sunday: 10:00 AM - 2:00 PM, 2:00 PM - 5:00 PM, 5:00 PM - 7:00 PM
+        shortDesc:      
+      - 
+        id:             10023
+        stationName:    Tampines Warehouse
+        stationAddress: BLK107 Tampines St11, #01-341, S521107
+        telephone:      
+        maxWeight:      25
+        aheadOfDay:     0
+        longitude:      103.948
+        latitude:       1.34844
+        imageUrl:       Warehouse_Tampines.png
+        desc:           Monday to Friday: 11:00AM - 2:00PM; 3:00PM - 5:00PM; 6:00PM - 9:00PM;Saturday to Sunday: 3:00PM - 8:00PM;
+        shortDesc:      
+      - 
+        id:             10024
+        stationName:    TanjongPagar Warehouse
+        stationAddress: 10 Anson Road, International Plaza ,#02-98,079903.
+        telephone:      
+        maxWeight:      10
+        aheadOfDay:     0
+        longitude:      103.846
+        latitude:       1.27602
+        imageUrl:       Warehouse_Tanjong Pagar Warehouse.png
+        desc:           Monday to Friday: 11:00AM - 2:00PM; 3:00PM - 5:00PM; 5:30PM - 8:00PM;Saturday: 11:00AM - 2:00PM;
+        shortDesc:      
+      - 
+        id:             10026
+        stationName:    Woodlands Warehouse
+        stationAddress: 11 Woodlands Close(Woodlands 11)#03-24,S737853
+        telephone:      
+        maxWeight:      25
+        aheadOfDay:     0
+        longitude:      103.802
+        latitude:       1.43389
+        imageUrl:       Warehouse_Woodlands.png
+        desc:           Monday to Friday: 11:00AM - 2:00PM; 3:00PM - 5:00PM; 6:00PM - 9:00PM;Saturday to Sunday: 3:00PM - 8:00PM;
+        shortDesc:      
+    deliveryMethodExtensions: 
+      (empty array)
+id:      1
